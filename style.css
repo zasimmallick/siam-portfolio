@@ -24,7 +24,7 @@ width: 70%;
 }
 .link-button{
   text-decoration: none;
-  background-image: linear-gradient(red,orange);
+  background-image: linear-gradient(rgba(151, 73, 73, 0.836),rgb(138, 124, 97));
   color: white;
   font-weight: 700;
   padding: 10px 40px;
@@ -35,19 +35,27 @@ width: 70%;
   background-repeat: no-repeat;
 }
 .dream-big{
-  background-image: url(images/or.jpg);
+  background-image: url(images/wh.jpg);
   background-repeat: no-repeat;
   padding-right: 5%;
 }
-.gray-color{
-  color: brown;
+.Becom-color{
+  color: coral;
 }
+
 .black-color{
   color:rgb(88, 3, 3);
 }
 .experience-area{
   background-image: url(images/wh.jpg);
   background-repeat: no-repeat;
+}
+.my-mission{
+  text-align: center;
+  color: rgb(168, 13, 13);
+}
+.mission-color{
+  color: darkblue;
 }
 .experience-item{
   width: 40%;
@@ -68,7 +76,18 @@ width: 70%;
   border-image: linear-gradient(red,rgb(235, 232, 231)) ;
   border-image-slice: 1;
 }
-footer p {
+#Goals-dev{
+  border-left: 7px solid;
+  border-image: linear-gradient(rgb(22, 22, 24),cyan);
+  border-image-slice:1 ;
+}
+footer h3 {
+  text-align: center;
+  
+}
+.color-footer{
+  color: rgb(194, 65, 65);
+}
+footer p{
   text-align: center;
 }
-..color-foote{color: blue;

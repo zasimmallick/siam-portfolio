@@ -39,19 +39,7 @@ width: 70%;
   padding: 10px 40px;
   border-radius: 5px;
 }
-.top-banner{
-  background-image: url(images/back.jpg);
-  background-repeat: no-repeat;
-}
-.dream-big{
-  background-image: url(images/wh.jpg);
-  background-repeat: no-repeat;
-  padding-right: 5%;
-}
-.last-benner{
-  
 
-}
 .Becom-color{
   color: coral;
 }
@@ -59,10 +47,7 @@ width: 70%;
 .black-color{
   color:rgb(88, 3, 3);
 }
-.experience-area{
-  background-image: url(images/wh.jpg);
-  background-repeat: no-repeat;
-}
+
 .my-mission{
   text-align: center;
   color: rgb(168, 13, 13);

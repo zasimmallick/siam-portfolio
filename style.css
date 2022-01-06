@@ -8,7 +8,16 @@ h1{
 h2{
   font-size: 40px;
 }
-.blue-color{color:orange;}
+h3{
+  font-size: 30px;
+}
+.blue-color{color:orange;
+}
+.margin{
+  border-left: 5px solid;
+  border-image: linear-gradient(black,red);
+  border-image-slice: 1;
+}
 .orange-color{
   color: blue;
 }
@@ -39,6 +48,10 @@ width: 70%;
   background-repeat: no-repeat;
   padding-right: 5%;
 }
+.last-benner{
+  
+
+}
 .Becom-color{
   color: coral;
 }
@@ -66,20 +79,28 @@ width: 70%;
   box-shadow: 10px 10px 40px rgb(83, 197, 83);
   
 }
+.img-pic{
+  width: 40%; 
+  padding-left: 5%;
+}
+
 #web-dev{
   border-left: 7px solid;
   border-image: linear-gradient(blue,cyan);
   border-image-slice: 1;
+  background-color: wheat;
 }
 #stack-dev{
   border-left: 7px solid;
   border-image: linear-gradient(red,rgb(235, 232, 231)) ;
   border-image-slice: 1;
+  background-color: white;
 }
 #Goals-dev{
   border-left: 7px solid;
   border-image: linear-gradient(rgb(22, 22, 24),cyan);
   border-image-slice:1 ;
+  background-color: cyan;
 }
 footer h3 {
   text-align: center;
@@ -90,4 +111,10 @@ footer h3 {
 }
 footer p{
   text-align: center;
+}
+footer{
+  background-color:rgb(21, 21, 48);
+}
+.white{
+  color: white;
 }
